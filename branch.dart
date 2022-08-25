@@ -1,2 +1,2 @@
-impor?
+main(void)
 //ahihihihi
